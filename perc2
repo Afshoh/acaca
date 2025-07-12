@@ -1,0 +1,6 @@
+import streamlit as st
+
+st.write("Hello, *Acchaa!* :sunglasses:")
+import streamlit as st
+
+st.write("semangattt, *ujiann praktikknyaa!* :sunglasses:")
